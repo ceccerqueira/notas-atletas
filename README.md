@@ -1,7 +1,12 @@
 # notas-atletas
-Aplicação capaz de receber o nome e as notas de um atleta, calcular a média e apresentar ao usuário.
-Projeto final do curso de DevStart BAHIA. O desafio foi criar uma aplicação que recebia dados de entrada de cada atleta e depois exibia o nome, as notas e as médias de cada atleta.
-Também foi necessário fazer as devidas configurações em relação as notas de cada atleta.
+**Título**: Gerenciamento e Cálculo de Média de Desempenho de Atletas
+Desenvolvido como projeto final do curso **DevStart BAHIA**, esta aplicação tem a finalidade de processar e analisar o desempenho de atletas. A aplicação é responsável por:
+- Receber o nome e múltiplas notas de avaliação para cada atleta.
+- Configurar e gerenciar as notas de entrada, garantindo a integridade dos dados.
+- Calcular a média de desempenho com base nas notas fornecidas.
+- Apresentar de forma clara o nome, as notas individuais e a média final de cada atleta ao usuário.
+  
+O projeto demonstrou a capacidade de criar uma solução completa de entrada de dados, processamento e exibição.
 
 
 
